@@ -1,0 +1,6 @@
+## 🔹`requirements.txt`
+
+```libraries
+numpy
+pandas
+scikit-learn
